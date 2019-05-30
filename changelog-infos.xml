@@ -1,6 +1,6 @@
 <changelogs>
     <changelog>
-        <element>plg_system_changelogtest</element>
+        <element>changelogtest</element>
         <type>plugin</type>
         <version>0.0.2</version>
         <security>
@@ -33,7 +33,7 @@
         </note>
 </changelog>
 <changelog>
-	<element>plg_system_changelogtest</element>
+	<element>changelogtest</element>
 	<type>plugin</type>
 	<version>0.0.1</version>
 	<security>
