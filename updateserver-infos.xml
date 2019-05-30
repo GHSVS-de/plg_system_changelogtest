@@ -4,7 +4,6 @@
 		<name>PLG_SYSTEM_CHANGELOGTEST</name>
 		<description>Joomla-Plugin. Test Changelog display.</description>
 		<element>changelogtest</element>
-		<changelogurl>https://raw.githubusercontent.com/ReLater/plg_system_changelogtest/master/changelog-infos.xml</changelogurl>
 		<type>plugin</type>
 		<folder>system</folder>
 		<client>site</client>
