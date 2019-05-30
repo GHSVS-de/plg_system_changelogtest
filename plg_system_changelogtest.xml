@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0.0" type="plugin" group="system" method="upgrade">
+ <name>plg_system_changelogtest</name>
+ <author>G@HService Berlin Neukölln, Volkmar Volli Schlothauer</author>
+ <creationDate>2019-05-30</creationDate>
+ <copyright></copyright>
+ <license>GNU General Public License version 3 or later</license>
+ <authorEmail></authorEmail>
+ <authorUrl>https://www.ghsvs.de</authorUrl>
+ <version>0.0.1</version>
+ <description>PLG_SYSTEM_CHANGELOGTEST_XML_DESCRIPTION</description>
+ <updateservers><server type="extension" priority="1" name="PLG_SYSTEM_CHANGELOGTEST">https://github.com/ReLater/plg_system_changelogtest/updateserver-infos.xml</server></updateservers>
+ <files>
+  <filename plugin="changelogtest">changelogtest.php</filename>
+ </files>
+
+ <config />
+</extension>
