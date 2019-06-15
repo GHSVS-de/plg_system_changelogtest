@@ -9,8 +9,12 @@
         </security>
         <fix>
             <item><![CDATA[
-              Item A fix version 0.0.2. \n <br>
+              Item A fix version 0.0.2.<br />
               Line 2xxxxx.
+            ]]></item>
+            <item><![CDATA[
+              <p>Item A fix version 0.0.2.</p>
+              <p>Line 2xxxxx.</p>
             ]]></item>
             <item>Item b fix version 0.0.2</item>
         </fix>
