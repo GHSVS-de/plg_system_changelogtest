@@ -8,10 +8,10 @@
             <item><![CDATA[<h2>You MUST update</h2>]]></item>
         </security>
         <fix>
-            <item>
-              Item A fix version 0.0.2. \n <![CDATA[<br />]]>
+            <item><![CDATA[
+              Item A fix version 0.0.2. \n <br>
               Line 2xxxxx.
-            </item>
+            ]]></item>
             <item>Item b fix version 0.0.2</item>
         </fix>
         <language>
