@@ -7,7 +7,7 @@
         <version>0.0.2</version>
         <security>
             <item>Item A</item>
-            <item><![CDATA[<h2>You MUST update</h2>]]></item>
+            <item><![CDATA[<h2>You MUST update xxxx</h2>]]></item>
         </security>
         <fix>
             <item><![CDATA[
