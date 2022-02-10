@@ -7,7 +7,7 @@
  <license></license>
  <authorEmail></authorEmail>
  <authorUrl>https://www.ghsvs.de</authorUrl>
- <version>0.0.2</version>
+ <version>0.0.4</version>
  <description>PLG_SYSTEM_CHANGELOGTEST_XML_DESCRIPTION</description>
 
  <updateservers><server type="extension" priority="1" name="PLG_SYSTEM_CHANGELOGTEST">https://raw.githubusercontent.com/GHSVS-de/plg_system_changelogtest/master/updateserver-infos.xml</server></updateservers>
