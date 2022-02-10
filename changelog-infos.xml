@@ -4,7 +4,7 @@
     <changelog>
         <element>changelogtest</element>
         <type>plugin</type>
-        <version>0.0.2</version>
+        <version>0.0.4</version>
         <security>
             <item>Item A</item>
             <item><![CDATA[<h2>You MUST update xxxx</h2>]]></item>
