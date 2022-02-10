@@ -51,6 +51,9 @@
   <note>
     <item>Item A note version 0.0.1</item>
     <item>Item b note version 0.0.1</item>
+			<item><![CDATA[
+				Checksum: &lt;sha256&gt;747cbb1372bc44787ed72084efdb2b601046fc0c4ae9662833b957c9639f1fd2&lt;/sha256&gt;
+			]]></item>
   </note>
 </changelog>
 </changelogs>
